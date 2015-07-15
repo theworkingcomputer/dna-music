@@ -5,7 +5,8 @@ DNA-Music
 :date: 15 July 2015
 
 
-Finally, the software for processing **template** dna files, comparing them to canonical works, and using that comparison to generate from specific dna sets from various organisms.
+Finally, the software for processing **template** dna files, comparing them to canonical works, and using that comparison to generate musical compositions from specific dna sets from various organisms. Final scores will be output via .MIDI files and be typesettable.
+
 
 I envision uses
 ***************
